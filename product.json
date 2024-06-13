@@ -1,0 +1,5 @@
+[
+    {"id":1,"name":"Honda","Price":1000000,"image":"image/download (1).jpg"},
+    {"id":2,"name":"superpower","Price":2000000,"image":"image/download (2).jpg"},
+    {"id":3,"name":"superbike","Price":3000000,"image":"image/download.jpg"}
+]
